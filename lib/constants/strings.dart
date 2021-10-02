@@ -1,0 +1,16 @@
+const String DescriptionBold = 'Discover New Places';
+const String DescriptionNormal = 'Vulputate vitae enim. Vulputate vitae';
+const String WelcomeBold = 'Welcome onboard';
+const String WelcomeNormal = 'Vulputate vitae enim. Vulputate vitae enim';
+const String ButText1 = 'GET STARTED';
+const String ButText2 = 'Register';
+const String ButText3 = 'Log in';
+const String SubText = "Don\'t have an account?";
+const String SubText1 = 'Already have an account?';
+const String SubText2 = 'Sign in';
+const String SubText3 = 'Sign up';
+const String SubText4 = 'Name';
+const String SubText5 = 'Email';
+const String SubText6 = 'Username';
+const String SubText7 = 'Password';
+const String SubText8 = 'Forgot Password';
